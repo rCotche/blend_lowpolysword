@@ -29,3 +29,5 @@ Sélectionne le fichier .zip téléchargé, puis clique sur Installer l'extensio
 Une fois installée, coche la case pour activer l'extension
 
 ===================================
+
+type N > regarde si le la checkbox X axis est coché > click sur auto mirror
