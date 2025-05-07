@@ -11,3 +11,21 @@ type G > type X > hold shift pour un déplacement plus precis (pour centre le ba
 
 
 click sur le cube
+puis
+type S to scale down (type N, to check si le cube est toujours à 0 sur le Z axis)
+
+===================================
+
+en haut à gauche, a coté du menu file, edit > préférences > add ons > type auto ?
+
+Ouvre Blender et va dans le menu Édition > Préférences.
+
+Dans l'onglet Extensions, clique sur Installer depuis le disque.
+
+Télécharge l'extension depuis le site officiel : Auto Mirror – Blender Extensions. (https://extensions.blender.org/add-ons/auto-mirror/)
+
+Sélectionne le fichier .zip téléchargé, puis clique sur Installer l'extension.
+
+Une fois installée, coche la case pour activer l'extension
+
+===================================
