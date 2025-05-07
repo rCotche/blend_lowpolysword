@@ -1,0 +1,13 @@
+drag & drop image on blender
+puis
+alt + r = remove any rotation || en haut à gauche à coté de  la liste deroulante object mode, Object > Clear > Rotation
+alt + g = remove any movement || en haut à gauche à coté de  la liste deroulante object mode, Object > Clear > location
+puis
+type R > type X > type 90 (numpad) > click pour confirmer
+puis
+type 1 numpad = frontview
+puis
+type G > type X > hold shift pour un déplacement plus precis (pour centre le bas du haut avec l'axe, ref image)
+
+
+click sur le cube
