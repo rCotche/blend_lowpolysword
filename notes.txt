@@ -82,4 +82,4 @@ edit mode > numpad 1 > edge mode > en haut à gauche à coté de la liste deroul
 puis
 ctrl + B (auto merge enabled) > scroll 1 fois > drag mouse slowly
 puis
-vertex mode > Type GG on a vertice > drag it
+vertex mode > Type GG on a vertice > drag it > select vertice > drag the 2nd one to
