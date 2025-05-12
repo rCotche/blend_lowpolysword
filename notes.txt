@@ -72,3 +72,14 @@ Panneau "Adjust Last Operation" : après avoir effectué la découpe, ce panneau
 click sur un vertex en haut (le vertex de face)
 puis
 click sur un 2e vertex en bas en maintenant ctrl = select all vertices between them > type G > numpad 1 > rapproche les vertices vers l'intérieur = donne un effet de sharpeness
+
+Apply mirror modifier on the x axis
+object mode >  en dessous du menu collection la partie properties > à gauche de la properties tab modifiers > Apply (liste déroulante à coté, ref image)
+
+dans le menu collection > click sur l'œil = hide bg image (ref image)
+
+edit mode > numpad 1 > edge mode > en haut à gauche à coté de la liste deroulante : object mode, edit mode…, select edge mode
+puis
+ctrl + B (auto merge enabled) > scroll 1 fois > drag mouse slowly
+puis
+vertex mode > Type GG on a vertice > drag it
