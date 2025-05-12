@@ -43,3 +43,32 @@ hold click gauche = box select > Type e to extrude (TIPS moi, lors du mode exclu
 en haut à droite, en dessous des mode : solid mode, render mode… > select auto merge vertices (ref image)
 
 mettre l'objet de profil > box select > type G > Type Y
+
+en haut à gauche à coté de la liste deroulante : object mode, edit mode…, select face mode (ref image)
+
+select face > type I > type B > drag mouse > click to confirm
+
+ctrl + r pour ajouter des edges
+
+===================================
+
+Appuie sur Ctrl + R : une ligne jaune apparaît, indiquant l'emplacement potentiel de la découpe en boucle.
+
+Place le curseur sur une arête : la ligne jaune s'ajuste pour montrer où la boucle sera insérée.
+
+Clique avec le bouton gauche de la souris (LMB) : cela fixe la position de la boucle.
+
+Déplace la souris pour glisser la nouvelle boucle le long du maillage.
+
+Clique à nouveau avec le bouton gauche pour confirmer la position finale, ou clique avec le bouton droit (RMB) pour placer la boucle au centre par défaut.
+
+Options supplémentaires
+Molette de la souris : avant de cliquer pour fixer la boucle, fais défiler la molette pour ajouter plusieurs coupes simultanément.
+
+Panneau "Adjust Last Operation" : après avoir effectué la découpe, ce panneau (en bas à gauche) permet d'ajuster des paramètres tels que le nombre de coupes, l'espacement, etc.
+
+===================================
+
+click sur un vertex en haut (le vertex de face)
+puis
+click sur un 2e vertex en bas en maintenant ctrl = select all vertices between them > type G > numpad 1 > rapproche les vertices vers l'intérieur = donne un effet de sharpeness
