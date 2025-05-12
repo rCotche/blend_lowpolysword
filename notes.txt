@@ -31,3 +31,15 @@ Une fois installée, coche la case pour activer l'extension
 ===================================
 
 type N > regarde si le la checkbox X axis est coché > click sur auto mirror
+puis
+type N > regarde si le la checkbox y axis est coché > orientation, liste deoulante select negative > click sur auto mirror
+
+En haut a droite au niveau de : solid mode, render mode… > select solid mode || enable it > select x ray mode || enable it (ref image)
+
+hold click gauche = box select > Type G > move aussi les vertices derriere
+puis
+hold click gauche = box select > Type e to extrude (TIPS moi, lors du mode exclude faire un petit creux vers l'intérieur pour facilité la modelisation)
+
+en haut à droite, en dessous des mode : solid mode, render mode… > select auto merge vertices (ref image)
+
+mettre l'objet de profil > box select > type G > Type Y
